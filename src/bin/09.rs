@@ -1,4 +1,4 @@
-use std::{cmp::max, collections::HashSet, num::ParseIntError, str::FromStr};
+use std::{collections::HashSet, num::ParseIntError, str::FromStr};
 
 use aoc2022::{get_day_input, print_elapsed_time};
 
